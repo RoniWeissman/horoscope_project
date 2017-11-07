@@ -1,11 +1,12 @@
-body {
-    background-color: lightyellow;
+html {
+    background-image: url("img/Stars.jpg");
 }
+
 h1 {
-    color: blue;
+    color: whitesmoke;
 }
 p {
-    color: darkblue;
+    color: whitesmoke;
     text-align: center;
 }
 #myDiv {
